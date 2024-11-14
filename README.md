@@ -1,5 +1,7 @@
 # Quick-BGP-Troubleshooting-Guide.
 
+![Border Gateway Protocol](https://github.com/user-attachments/assets/383b4994-484f-4d96-b377-3762b5016d39)
+
 A concise step-by-step approach to resolve BGP connectivity issues in under 30 minutes.
 
 Basic BGP Troubleshooting Guide:
